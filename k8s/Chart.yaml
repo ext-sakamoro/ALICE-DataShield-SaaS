@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_DATASHIELD
+name: alice-datashield
 description: ALICE DataShield
 type: application
 version: 0.1.0
